@@ -1,3 +1,4 @@
+using System.Reflection.Metadata.Ecma335;
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
 using UnityEngine.XR.Interaction.Toolkit.Interactors;
@@ -27,6 +28,10 @@ public class InventorySlot : MonoBehaviour
     {
         GameObject fruit = args.interactableObject.transform.gameObject;
         Debug.Log($"Fruta guardada en el inventario: {fruit.name}");
+        if(Scene5FManager.instance != null)
+        {
+            Scene5FManager.instance.FruitColected();
+        }
 
        
     }
@@ -35,5 +40,9 @@ public class InventorySlot : MonoBehaviour
     {
         GameObject fruit = args.interactableObject.transform.gameObject;
         Debug.Log($"Fruta retirada del inventario: {fruit.name}");
+        if (Scene5FManager.instance != null)
+        {
+            Scene5FManager.instance.FruitRemoved();
+        }
     }
 }

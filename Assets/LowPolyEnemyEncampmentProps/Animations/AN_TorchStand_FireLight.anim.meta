@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 801ccef8e3f52df479303d5d5847a603
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Animations/AN_TorchStand_FireLight.anim
+  uploadId: 1002438

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d776f1ddeb84374b8f38de886acb8fc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Prefabs/CampStructures/PF_RoughCampTable.prefab
+  uploadId: 1002438

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e738034c6186f4542a2fb9b11608ec4c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Materials/MAT_EEP_Blood.mat
+  uploadId: 1002438

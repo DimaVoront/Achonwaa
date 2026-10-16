@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b52fee2f870703c4aa8c0691b6c199c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Prefabs/CampStructures/PF_SmallEnemyTent.prefab
+  uploadId: 1002438

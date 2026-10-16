@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c747df888f8410f4a836b98bb1992603
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Demo/LowPolyEnemyEncampmentProps_DemoVolume.asset
+  uploadId: 1002438

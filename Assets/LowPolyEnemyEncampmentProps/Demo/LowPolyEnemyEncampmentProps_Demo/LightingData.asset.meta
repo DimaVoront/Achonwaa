@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3532200bfb57e634e89c5f444d6e1517
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Demo/LowPolyEnemyEncampmentProps_Demo/LightingData.asset
+  uploadId: 1002438

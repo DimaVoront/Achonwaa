@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4513f4dc05307604c95c112f82a398e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Animations/AN_WallTorch_FireLight_C.anim
+  uploadId: 1002438

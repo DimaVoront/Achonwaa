@@ -45,7 +45,7 @@ public class SubtitleAudioSystem : MonoBehaviour
     {
         // Comenzar sin subtítulos
         subtitleText.text = "";
-        StartDialogueGroup(0);
+        StartCoroutine(LoadWaitTime());
     }
 
     // Iniciar un grupo específico
@@ -61,6 +61,12 @@ public class SubtitleAudioSystem : MonoBehaviour
         dialogueCoroutine = StartCoroutine(
             PlayDialogueGroup(groupIndex)
         );
+    }
+
+    IEnumerator LoadWaitTime()
+    {
+        yield return new WaitForSeconds(3f);
+        StartDialogueGroup(0);
     }
 
     private IEnumerator PlayDialogueGroup(int groupIndex)

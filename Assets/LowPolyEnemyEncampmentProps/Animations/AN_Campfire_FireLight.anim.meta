@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3708c6be2aa106147bd0405571d63b35
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Animations/AN_Campfire_FireLight.anim
+  uploadId: 1002438

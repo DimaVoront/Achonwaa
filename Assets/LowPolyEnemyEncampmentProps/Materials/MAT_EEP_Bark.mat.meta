@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09dd8cfdb7c4f9942bc4cafac4c89039
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Materials/MAT_EEP_Bark.mat
+  uploadId: 1002438

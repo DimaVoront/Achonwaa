@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7e057d109b059894c85f4e635e1fb9ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Animations/AN_HangingLantern_FireLight_C.anim
+  uploadId: 1002438

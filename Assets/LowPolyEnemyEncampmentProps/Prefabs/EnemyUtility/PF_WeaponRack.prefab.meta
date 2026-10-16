@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83c8b174123392341846809432ea5c0d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Prefabs/EnemyUtility/PF_WeaponRack.prefab
+  uploadId: 1002438

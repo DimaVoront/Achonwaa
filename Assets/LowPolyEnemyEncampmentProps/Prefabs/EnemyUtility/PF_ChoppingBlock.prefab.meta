@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38e11b62b3359c648992b31a43377538
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Prefabs/EnemyUtility/PF_ChoppingBlock.prefab
+  uploadId: 1002438

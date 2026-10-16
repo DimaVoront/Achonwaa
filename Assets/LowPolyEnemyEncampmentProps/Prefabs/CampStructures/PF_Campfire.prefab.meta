@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c27078b920328643ac6c74ff6ef4807
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Prefabs/CampStructures/PF_Campfire.prefab
+  uploadId: 1002438

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ba274e706ea8854f9442ba34488454c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Materials/MAT_EEP_Iron.mat
+  uploadId: 1002438

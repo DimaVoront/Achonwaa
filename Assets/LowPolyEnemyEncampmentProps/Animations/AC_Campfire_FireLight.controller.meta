@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 923f60ff1ada70641a2afa39a4217522
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Animations/AC_Campfire_FireLight.controller
+  uploadId: 1002438

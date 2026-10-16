@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04722b2d799e16f499d257c9cb91e1d9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Prefabs/LightingIdentity/PF_TorchStand.prefab
+  uploadId: 1002438

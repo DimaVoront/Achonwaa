@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e0d47e479f5d3c64f92cb3903629cfa8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Prefabs/EnemyUtility/PF_TrainingDummy.prefab
+  uploadId: 1002438

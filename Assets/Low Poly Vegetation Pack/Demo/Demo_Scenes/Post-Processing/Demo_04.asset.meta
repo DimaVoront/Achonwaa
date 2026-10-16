@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2e8486e786a68e946a44065d2efab3f7
+timeCreated: 1569210541
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 80146
+  packageName: Low Poly Vegetation Pack
+  packageVersion: 1.5
+  assetPath: Assets/Low Poly Vegetation Pack/Demo/Demo_Scenes/Post-Processing/Demo_04.asset
+  uploadId: 808916

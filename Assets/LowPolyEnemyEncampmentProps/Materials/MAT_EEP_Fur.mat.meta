@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5cc65c37bc70ebe4bb5fc5d0b911d81d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Materials/MAT_EEP_Fur.mat
+  uploadId: 1002438

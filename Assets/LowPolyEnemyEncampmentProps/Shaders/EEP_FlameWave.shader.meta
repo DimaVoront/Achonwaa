@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bfdec16c520671045905c68f564f1d9a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Shaders/EEP_FlameWave.shader
+  uploadId: 1002438

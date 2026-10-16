@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abd7f11e1910fdb418e3d5bbcea8abed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Prefabs/EnemyUtility/PF_GrindingStone.prefab
+  uploadId: 1002438

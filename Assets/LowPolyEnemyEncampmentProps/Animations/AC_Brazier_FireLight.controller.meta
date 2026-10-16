@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e6843d5388548a541a70a16b812eb887
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Animations/AC_Brazier_FireLight.controller
+  uploadId: 1002438

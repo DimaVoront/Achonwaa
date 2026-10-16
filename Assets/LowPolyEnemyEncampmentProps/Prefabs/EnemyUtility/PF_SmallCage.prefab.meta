@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 088ba5a668e67ae4090ff51ef54eae82
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Prefabs/EnemyUtility/PF_SmallCage.prefab
+  uploadId: 1002438

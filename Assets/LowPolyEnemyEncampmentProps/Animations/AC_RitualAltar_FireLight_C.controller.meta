@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e205b13172b7dd4b8e08d7cc7ad6a2e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Animations/AC_RitualAltar_FireLight_C.controller
+  uploadId: 1002438

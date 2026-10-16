@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab8c14b8313a8ff44ac730b66b58102a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 410366
+  packageName: Low Poly Enemy Encampment Props
+  packageVersion: 1.0.0
+  assetPath: Assets/LowPolyEnemyEncampmentProps/Materials/MAT_EEP_Bone.mat
+  uploadId: 1002438
