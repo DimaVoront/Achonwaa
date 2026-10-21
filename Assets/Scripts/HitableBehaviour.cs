@@ -9,6 +9,7 @@ public class HitableBehaviour : MonoBehaviour
     [SerializeField] Transform[] patrolPoints;
     int currentPatrol = 0;
     [SerializeField] bool isSaino = false;
+    [SerializeField] bool isConqueror = false;
 
     [SerializeField] Animator anims;
     bool isDead = false;
@@ -61,6 +62,10 @@ public class HitableBehaviour : MonoBehaviour
                 if(isSaino)
                 {
                     Scene4MManager.instance.AddSaino();
+                }
+                if (isConqueror)
+                {
+                    Scene5MManager.instance.AddSaino();
                 }
             }
         }
