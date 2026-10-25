@@ -83,13 +83,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _CloudAlpha: 0.79
+    - _CloudAlpha: 0.429
     - _CloudBackOn: 0
     - _CloudBackSpeed: 0.0002
     - _CloudOn: 1
     - _CloudOpacity: 1
-    - _CloudSpeed: 0.0018
-    - _Cloudiness: 0.56
+    - _CloudSpeed: 0.00038
+    - _Cloudiness: 0.396
     - _MoonDarkside: 0.099
     - _MoonDarkside1: 0
     - _MoonDarkside2: 0
@@ -105,7 +105,7 @@ Material:
     - _MoonRadius: 0.195
     - _MoonRadius1: 0.1
     - _MoonRadius2: 0.3
-    - _SkyExposure: 0.51
+    - _SkyExposure: 0.83
     - _StarExposure: 7
     - _StarLatitude: 0
     - _StarPower: 3.61
@@ -113,9 +113,9 @@ Material:
     - _SunColorCustomize: 1
     - _SunCoreSharpness: 0
     - _SunEdgeFalloff: 1
-    - _SunHaloStrength: 17
-    - _SunIntensity: 4.3
-    - _SunRadius: 0.25
+    - _SunHaloStrength: 21.6
+    - _SunIntensity: 5.05
+    - _SunRadius: 0.248
     - _SunTexture: 0
     - _SunTextureOn: 0
     - _SunTextureStrength: 0.8
