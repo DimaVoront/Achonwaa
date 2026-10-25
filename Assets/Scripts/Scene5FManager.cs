@@ -42,7 +42,7 @@ public class Scene5FManager : MonoBehaviour
         if (fruitsCollected > 3)
         {
             hasWater = true;
-            Debug.Log("Se acabo xd");
+            StartCoroutine(SceneTransition.instance.FadeToBlack("Escena4M"));
         }
         
     }

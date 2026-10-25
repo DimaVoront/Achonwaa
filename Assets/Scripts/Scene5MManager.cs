@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class Scene5MManager : MonoBehaviour
@@ -13,7 +14,6 @@ public class Scene5MManager : MonoBehaviour
     }
     void Start()
     {
-
     }
 
     public void AddSaino()
@@ -23,6 +23,14 @@ public class Scene5MManager : MonoBehaviour
         {
             interaction1Dialogue.SetActive(false);
             interaction2Dialogue.SetActive(true);
+            StartCoroutine(WaitTilFinished());
+
         }
+    }
+
+    IEnumerator WaitTilFinished()
+    {
+        yield return new WaitForSeconds(12);
+        StartCoroutine(SceneTransition.instance.FadeToBlack("Escena4F"));
     }
 }

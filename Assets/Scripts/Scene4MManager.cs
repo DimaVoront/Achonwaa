@@ -19,7 +19,7 @@ public class Scene4MManager : MonoBehaviour
         sainosHunted++;
         if(sainosHunted > 2)
         {
-            Debug.Log("Se acabo otra vez jijua");
+            StartCoroutine(SceneTransition.instance.FadeToBlack("Escena5M"));
         }
     }
 }
