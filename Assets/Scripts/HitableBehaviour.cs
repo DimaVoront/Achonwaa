@@ -13,6 +13,7 @@ public class HitableBehaviour : MonoBehaviour
 
     [SerializeField] Animator anims;
     bool isDead = false;
+    [SerializeField] ParticleSystem deathParticles;
 
     private void Awake()
     {
@@ -59,6 +60,7 @@ public class HitableBehaviour : MonoBehaviour
             {
                 anims.SetTrigger("Die");
                 isDead = true;
+                deathParticles.Play();
                 if(isSaino)
                 {
                     Scene4MManager.instance.AddSaino();

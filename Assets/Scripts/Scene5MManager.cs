@@ -19,7 +19,7 @@ public class Scene5MManager : MonoBehaviour
     public void AddSaino()
     {
         conquerorsKilled++;
-        if (conquerorsKilled > 2)
+        if (conquerorsKilled > 6)
         {
             interaction1Dialogue.SetActive(false);
             interaction2Dialogue.SetActive(true);
