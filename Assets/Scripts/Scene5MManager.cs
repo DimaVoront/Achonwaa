@@ -30,7 +30,7 @@ public class Scene5MManager : MonoBehaviour
 
     IEnumerator WaitTilFinished()
     {
-        yield return new WaitForSeconds(12);
+        yield return new WaitForSeconds(14);
         StartCoroutine(SceneTransition.instance.FadeToBlack("Escena4F"));
     }
 }

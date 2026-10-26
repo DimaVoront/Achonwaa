@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using UnityEngine.AI;
+using System.Collections;
 
 public class HitableBehaviour : MonoBehaviour
 {
@@ -61,16 +62,43 @@ public class HitableBehaviour : MonoBehaviour
                 anims.SetTrigger("Die");
                 isDead = true;
                 deathParticles.Play();
-                if(isSaino)
+                RandomAudioPlayer.instance.ReproducirAudioAleatorio();
+                if (isSaino)
                 {
                     Scene4MManager.instance.AddSaino();
                 }
                 if (isConqueror)
                 {
+                    StartCoroutine(BajarPosicionY());
                     Scene5MManager.instance.AddSaino();
                 }
+                Collider col = GetComponent<Collider>();
+                col.enabled = false;
             }
         }
         
+    }
+
+    private IEnumerator BajarPosicionY()
+    {
+        float duracion = 0.5f;        
+        float tiempoTranscurrido = 0f;
+
+        float inicioY = -0.5f;
+        float finY = -1.0f;
+
+        Vector3 posicionInicial = transform.position;
+
+        while (tiempoTranscurrido < duracion)
+        {
+            tiempoTranscurrido += Time.deltaTime;
+            float porcentaje = tiempoTranscurrido / duracion;
+
+            float nuevoY = Mathf.Lerp(inicioY, finY, porcentaje);
+            transform.position = new Vector3(posicionInicial.x, nuevoY, posicionInicial.z);
+
+            yield return null;
+        }
+        transform.position = new Vector3(posicionInicial.x, finY, posicionInicial.z);
     }
 }

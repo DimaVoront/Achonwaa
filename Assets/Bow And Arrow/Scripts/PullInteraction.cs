@@ -15,6 +15,7 @@ public class PullInteraction : UnityEngine.XR.Interaction.Toolkit.Interactables.
 
     //Polish
     private AudioSource _audioSource;
+    [SerializeField] AudioSource _pullAudio;
     protected override void Awake()
     {
         base.Awake();
@@ -24,6 +25,7 @@ public class PullInteraction : UnityEngine.XR.Interaction.Toolkit.Interactables.
     public void SetPullInteractor(SelectEnterEventArgs args)
     {
         _pullingInteractor = args.interactorObject;
+        _pullAudio.Play();
     }
     public void Release()
     {
@@ -87,7 +89,6 @@ public class PullInteraction : UnityEngine.XR.Interaction.Toolkit.Interactables.
     //Polish
     private void PlayReleaseSound()
     {
-        _audioSource.Stop();
         _audioSource.Play();
     }
 }
