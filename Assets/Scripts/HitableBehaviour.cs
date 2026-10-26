@@ -81,24 +81,24 @@ public class HitableBehaviour : MonoBehaviour
 
     private IEnumerator BajarPosicionY()
     {
-        float duracion = 0.5f;        
+        float duracion = 0.5f;
         float tiempoTranscurrido = 0f;
+        float inicioY = anims.transform.localPosition.y;
+        float finY = -1.5f;
 
-        float inicioY = -0.5f;
-        float finY = -1.0f;
-
-        Vector3 posicionInicial = transform.position;
+        Vector3 posicionInicial = anims.transform.localPosition;
 
         while (tiempoTranscurrido < duracion)
         {
             tiempoTranscurrido += Time.deltaTime;
-            float porcentaje = tiempoTranscurrido / duracion;
 
+            float porcentaje = tiempoTranscurrido / duracion;
             float nuevoY = Mathf.Lerp(inicioY, finY, porcentaje);
-            transform.position = new Vector3(posicionInicial.x, nuevoY, posicionInicial.z);
+
+            anims.transform.localPosition = new Vector3(posicionInicial.x, nuevoY, posicionInicial.z);
 
             yield return null;
         }
-        transform.position = new Vector3(posicionInicial.x, finY, posicionInicial.z);
+        anims.transform.localPosition = new Vector3(posicionInicial.x, finY, posicionInicial.z);
     }
 }
